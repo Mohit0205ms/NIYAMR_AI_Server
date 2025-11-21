@@ -42,3 +42,5 @@ The project uses the following main dependencies: express, cors, multer, pdf-par
 To deploy the server, ensure all dependencies is installed and the enviroment variables are set correctly.
 
 For more details, check the main projects documentation.
+
+<video src="https://github.com/user-attachments/assets/f18b9d5b-b15f-4d8c-948f-93a435b1aa53" width=300 />
