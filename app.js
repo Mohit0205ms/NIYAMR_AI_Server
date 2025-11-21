@@ -4,7 +4,7 @@ const multer = require('multer');
 const pdfService = require('./services/pdfService');
 
 const app = express();
-const upload = multer({ dest: 'uploads/' });
+const upload = multer({ dest: 'temp/' });
 
 app.use(cors());
 app.use(express.json());
